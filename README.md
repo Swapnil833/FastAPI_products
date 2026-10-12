@@ -90,20 +90,6 @@ The backend exposes endpoints for performing CRUD operations and searching recor
 
 *Endpoint paths and HTTP methods may vary depending on your implementation.*
 
-## 📚 Key Concepts
-
-- **CRUD Operations:** Implement the fundamental data management operations.
-- **Dependency Injection:** Manage and reuse backend dependencies using FastAPI's `Depends`.
-- **Search and Filtering:** Retrieve relevant records based on user input.
-- **Frontend–Backend Communication:** Integrate React components with RESTful API endpoints.
-
-## 🎯 Learning Outcomes
-
-- Built a full-stack application using React.js and FastAPI.
-- Practiced designing and consuming REST APIs.
-- Implemented reusable backend dependencies.
-- Integrated search functionality into a CRUD workflow.
-- Gained experience connecting a JavaScript frontend to a Python backend.
 
 ## 📌 Future Improvements
 
